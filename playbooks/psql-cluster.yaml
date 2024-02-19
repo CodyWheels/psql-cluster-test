@@ -1,0 +1,7 @@
+---
+
+- hosts: psql-cluster
+  become: yes
+
+  roles:
+    - psql-cluster

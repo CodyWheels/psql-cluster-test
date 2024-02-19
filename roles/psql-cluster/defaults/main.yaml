@@ -1,0 +1,6 @@
+---
+
+postgresql_service_name: "postgresql"
+
+pgsqlrep_user: replicator
+pgsqlrep_password: Zaq1Xsw2

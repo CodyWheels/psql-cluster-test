@@ -1,0 +1,19 @@
+---
+
+# Docker
+- name: nickjj.docker
+  path: vendor/roles
+  src: https://github.com/nickjj/ansible-docker.git
+  version: v1.9.0
+
+# KeepAlived
+- name: evrardjp.keepalived
+  path: vendor/roles
+  src: https://github.com/evrardjp/ansible-keepalived.git
+  version: 8.1.0
+
+# Postgresql
+- name: anxs.postgresql
+  path: vendor/roles
+  src: https://github.com/ANXS/postgresql.git
+  version: v1.13.0
