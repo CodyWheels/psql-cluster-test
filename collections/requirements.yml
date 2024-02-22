@@ -1,4 +1,8 @@
 ---
 collections:
-  - name: community.general  
+  - name: community.general
     version: 8.3.0
+    source: https://galaxy.ansible.com
+  - name: community.postgresql
+    version: 3.4.0
+    source: https://galaxy.ansible.com
